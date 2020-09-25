@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
+/* font-family: 'Open Sans', sans-serif; */
   @font-face {
      font-family:Athene ;
      src: url(../../fonts/Athene.otf); 
     }
-    @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
-    /* font-family: 'Open Sans', sans-serif; */
+    
  
 /* Farben: #002a5a, #efe8d7, #F4C4C4, #282b29, #7d2222, #DEB873, #D2D2D2, #1d8883 */
 
@@ -152,6 +153,7 @@ table {
 .stamp {
     margin-left: 86%;
     margin-top: 5%;
+    width:7%;
 }
 .works {
     background-color: #DEB873;
